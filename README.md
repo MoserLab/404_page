@@ -10,3 +10,8 @@
  
  - to do following instructions, you need **root** access
  - create backup of original shiny server page: 
+ >- cd /srv/shiny-server
+ >- sudo mkdir shiny_webpageBKUP
+ >- sudo mv * shiny_webpageBKUP
+ 
+ - place your desired webpage 
