@@ -14,7 +14,15 @@
  >- sudo mkdir shiny_webpageBKUP
  >- sudo mv * shiny_webpageBKUP
  
- - place your desired webpage (clone this repo) into the directory
+ - get repo of your desired webpage (this repo for example) to your home directory and  move page to /srv/shiny-server
+  >- cd; git clone https://github.com/MoserLab/404_page.git; cd 404_page
+  >- sudo cp -r * /srv/shiny-server
+      
+
+ 
+## **404 demo page**
+
+### https://moserlab.github.io
  
 
 
