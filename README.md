@@ -22,7 +22,7 @@
  
 ## **404 demo page**
 
-### https://moserlab.github.io
+### https://moserlab.github.io/error
  
 
 
