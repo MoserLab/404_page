@@ -14,4 +14,7 @@
  >- sudo mkdir shiny_webpageBKUP
  >- sudo mv * shiny_webpageBKUP
  
- - place your desired webpage 
+ - place your desired webpage (clone this repo) into the directory
+ 
+
+
